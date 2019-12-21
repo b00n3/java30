@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "/Users/danielyost/Documents/GitHub/JavaScript30/03 - CSS Variables/index-dan.html",
+            "url": "/Users/danielyost/Documents/GitHub/JavaScript30/04 - Array Cardio Day 1/index-dan.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
